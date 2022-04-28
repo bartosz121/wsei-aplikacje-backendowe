@@ -10,24 +10,24 @@ Projekt składa się z trzech aplikacji:
 
 |   |Aplikacja 1|
 |:-:|---|
-|[x]| Podstawowe REST API  |
-|[x]| Uwierzytelnianie użytkownika dla requestów `POST`, `PUT`, `DELETE`  |
-|[x]| Dodanie bazy danych |
-|[x]| Scrapowanie newsów z popularnych stron internetowych |
-|[x]| Automatycznie dodawanie zescrapowanych newsów do bazy danych (`POST` request)  |
-|[x]| Paginacja |
-|[x]| Dodanie `Celery` - automatycznie scrapowanie co 3 godziny |
-|[x]| Dockerfile & docker-compose |
+|:heavy_check_mark:| Podstawowe REST API  |
+|:heavy_check_mark:| Uwierzytelnianie użytkownika dla requestów `POST`, `PUT`, `DELETE`  |
+|:heavy_check_mark:| Dodanie bazy danych |
+|:heavy_check_mark:| Scrapowanie newsów z popularnych stron internetowych |
+|:heavy_check_mark:| Automatycznie dodawanie zescrapowanych newsów do bazy danych (`POST` request)  |
+|:heavy_check_mark:| Paginacja |
+|:heavy_check_mark:| Dodanie `Celery` - automatycznie scrapowanie co 3 godziny |
+|:heavy_check_mark:| Dockerfile & docker-compose |
 
 |   |Aplikacja 2|
 |---|---|
-|[ ]|Rejestracja|
-|[ ]|Logowanie|
+|:x:|Rejestracja|
+|:x:|Logowanie|
 
 |   |Aplikacja 3|
 |---|---|
-|[ ]|Przegląd newsów|
-|[ ]|Formularz rejestracji/logowania|
-|[ ]|Formularz zapisu do newslettera|
+|:x:|Przegląd newsów|
+|:x:|Formularz rejestracji/logowania|
+|:x:|Formularz zapisu do newslettera|
 
-[ ] Deployment
+:x: Deployment
