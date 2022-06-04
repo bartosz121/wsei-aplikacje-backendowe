@@ -1,7 +1,7 @@
 
 # Projekt - Programowanie aplikacji backendowych
 
-Projekt ma na celu agregację newsów z różnych stron internetowych i prezentowanie ich w przejrzysty sposób. Rejestracja pozwala ustalić filtry na przeglądane newsy oraz zapis do newslettera w którym użytkownik codziennie dostaje wybrane artykuły.
+Projekt ma na celu agregację i wyszukiwanie newsów z różnych stron internetowych i prezentowanie ich w przejrzysty sposób. Rejestracja pozwala zapisywac wybrane artykuly jako bookmarki ktore pozniej mozna przegladac.
 
 [Demo](https://newsreporter.bartoszmagiera.me/)
 
