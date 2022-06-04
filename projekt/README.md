@@ -26,11 +26,16 @@ Projekt składa się z trzech aplikacji:
 |---|---|
 |:heavy_check_mark:|Rejestracja|
 |:heavy_check_mark:|Logowanie|
+|:heavy_check_mark:|Bookmarkowanie newsów|
+|:heavy_check_mark:|Dockerfile|
 
 |   |Aplikacja 3|
 |---|---|
 |:heavy_check_mark:|Przegląd newsów|
 |:heavy_check_mark:|Formularz rejestracji/logowania|
-|:x:|Formularz zapisu do newslettera|
+|:heavy_check_mark:|Wyszukiwarka newsów|
+|:heavy_check_mark:|Dodawanie/usuwanie bookmarków|
+|:heavy_check_mark:|Dockerfile|
 
-:x: Deployment
+
+:heavy_check_mark: [Deployment](https://newsreporter.bartoszmagiera.me/)

@@ -1,0 +1,10 @@
+module.exports = {
+  content: ["./src/**/*.{js,jsx,ts,tsx}",],
+  theme: {
+    extend: {},
+  },
+  daisyui: {
+    themes: ["cupcake"],
+  },
+  plugins: [require("@tailwindcss/typography"), require("daisyui")],
+}
